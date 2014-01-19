@@ -1,3 +1,3 @@
-FooCoin (FOO)
+OrangeCoin (OGC)
 
-Blah, blah, blah.
+An alternative to bitcoin and litecoin!  Uses the scypt hashing method.
